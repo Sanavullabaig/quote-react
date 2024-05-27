@@ -55,6 +55,7 @@ function App() {
             isLoading={isLoading}
             isError={error}
           />
+          <p style={{marginTop:"10px"}}>Made By :- Sanavulla Baig</p>
         </div>
       </div>
     </ThemeContext.Provider>

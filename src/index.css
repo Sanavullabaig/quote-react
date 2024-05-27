@@ -86,7 +86,7 @@ body {
 #dark .dark-mode__button:focus,
 #dark .dark-mode__button:active,
 #dark .dark-mode__button:hover {
-  background: rgba(52, 1, 123, 0.6);
+  background: rgba(98, 186, 126, 0.6);
 }
 .dark-mode__button-content {
   display: flex;
