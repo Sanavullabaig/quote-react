@@ -13,7 +13,7 @@ You can fetch data in two ways:
 
 ## ✨ Try it out
 
-[Quoty](https://aminawinti.github.io/quoty/)
+[Quoty](https://quote-react-iota.vercel.app/)
 
 # Install
 
