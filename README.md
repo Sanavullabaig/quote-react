@@ -2,7 +2,7 @@
 
 <br/>
 
-[Quoty](https://aminawinti.github.io/quoty/) app displays famous quotes from various historical figures each time a button is clicked. It was originally built as part of a My Projects (https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects) project. It is developed using React.js
+[Quoty](https://aminawinti.github.io/quoty/) app displays famous quotes from various historical figures each time a button is clicked. It was originally built as part of a My Projects It is developed using React.js
 
 You can fetch data in two ways:
 
