@@ -2,7 +2,7 @@
 
 <br/>
 
-[Quoty](https://Sanavullabaig.github.io/quoty/) app displays famous quotes from various historical figures each time a button is clicked. It was originally built as part of a My Projects It is developed using React.js
+[Quoty](https://quote-react-iota.vercel.app/) app displays famous quotes from various historical figures each time a button is clicked. It was originally built as part of a My Projects It is developed using React.js
 
 You can fetch data in two ways:
 
@@ -20,7 +20,7 @@ You can fetch data in two ways:
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Amin-Awinti/quoty-app.git
+git clone https://github.com/Sanavullabaig/quote-react.git
 
 ```
 
